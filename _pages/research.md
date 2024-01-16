@@ -7,13 +7,13 @@ author_profile: true
 
 <span style ="font-size:1.2em;">  **Job Market Paper** </span>
 
-<span style ="font-size:.9em;"> **Quantifying the Welfare Impacts of Gentrification on Incumbent Renters** (with Ashvin Gandhi and Valentine Gilbert) 2023.</span> <br/> <small>[ <a href="#/" onclick="visib('jmp')">Abstract</a> | [PDF][JMP] ]</small>
+<span style ="font-size:.9em;"> **Mixed Public-Private Provision in Healthcare: Evidence from England** 2023.</span> <br/> <small>[ <a href="#/" onclick="visib('jmp')">Abstract</a> | [PDF][JMP] ]</small>
 
 <div id="jmp" style="display: none; text-align: justify; line-height: 1.2" ><small>
-How does gentrification affect the welfare of incumbent residents of low-income neighborhoods? This paper investigates how low-income renters of gentrifying neighborhoods fare relative to renters of neighborhoods in the same metro that stay poor.  We link person-level administrative US Census data to construct an annual panel that tracks the earnings, workplaces, and residential addresses of over 1 million low-income urban renter households through 2000-2019. We use this data to estimate a dynamic structural model of residential and workplace choice. We identify our model with skill-specific labor demand shocks to potential commuting destinations, constructed using geocoded establishment-level business data. We find that – because low-income renters are highly mobile – gentrification affected incumbent renters primarily by changing the characteristics of other neighborhoods in their choice sets. Our results imply that where low-income renters lived within US metros mattered comparatively less than which US metro they lived in. 
+Should governments outsource publicly funded healthcare to the private sector? I study the aggregate and distributional effects of partial outsourcing in the context of a major policy reform in the English National Health Service that allowed patients to choose treatment at private hospitals as well as incumbent public hospitals. Private hospitals locate in high-income areas and treat less severe patients. Using variation in market-level exposure to the reform, I find that outsourcing increased volume of elective admissions and reduced wait times. Exposure to outsourcing slightly increased average severity of the patients at nearby public hospitals but did not reduce physician labor supply. I use variation from the reform to estimate a model of patient demand in the presence of capacity constraints. Outsourcing increased patient surplus and reduced average wait time by 16%. One third of gains come from reduced congestion at public hospitals. Gains for patients in the top quintile of the income distribution are 55% higher than for patients in the bottom quintile. Results highlight the potential for outsourcing to expand patient choice and relieve public sector congestion, at the cost of increasing inequality in access to care.
 </small><br><br/></div>
 
-[JMP]:{{ site.baseurl }}{% link files/FrenchJMP.pdf %} 
+[JMP]:{{ site.baseurl }}{% link documents/burn_pubpriv.pdf %} 
 
 <span style ="font-size:1.2em;">**Working Papers** </span>
 
