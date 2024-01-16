@@ -17,7 +17,7 @@ Should governments outsource publicly funded healthcare to the private sector? I
 
 <span style ="font-size:1.2em;">**Working Papers** </span>
 
-<span style ="font-size:.9em;">**Rationing Medicine Through Bureaucracy: Authorization Restrictions in Medicare** (with Zarek Brot-Goldberg, Timothy Layton and Boris Vabson). 2023. *Revise & Resubmit at American Economic Review*</span> <br/> <small>[ <a href="#/" onclick="visib('priorauth')">Abstract</a> | [PDF][priorauth] | [NBER working paper][priorauth_NBER] |  <a href="#/" onclick="visib('priorauth_media')">Media coverage</a>]</small><br/>
+<span style ="font-size:.9em;">**Rationing Medicine Through Bureaucracy: Authorization Restrictions in Medicare** (with Zarek Brot-Goldberg, Timothy Layton and Boris Vabson). 2023. *Revise & Resubmit at American Economic Review*</span> <br/> <small>[ <a href="#/" onclick="visib('priorauth')">Abstract</a> | [PDF][priorauth] | [NBER working paper][priorauth_NBER]]</small><br/>
 <small>Media coverage: [Tradeoffs](https://tradeoffs.org/2023/10/03/prior-authorization-insurers/), [Medscape](https://www.medscape.com/viewarticle/995133), [Crain's Chicago Business](https://www.chicagobusiness.com/health-pulse/university-chicago-studies-financial-advantage-rationing-medical-care), [AEIdeas](https://www.aei.org/health-care/prior-authorization-reduces-net-costs-of-medicare-part-d/)</small><br/>
 
 <div id="priorauth" style="display: none; text-align: justify; line-height: 1.2" ><small>
