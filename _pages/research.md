@@ -38,6 +38,18 @@ funding that is plausibly exogenous to demand for health care. Government fundin
 
 [VCs]: https://valentinegilbert.github.io/files/gilbert_jmp.pdf
 
+<span style ="font-size:1.2em;"> **Work in Progress** </span>
+
+<span style ="font-size:.9em;">**Informative Ordeals in Healthcare: Prior Authorization of Drugs in Medicaid** (with LJ Ristovska)</span>
+
+<span style ="font-size:.9em;">**Are Health Insurance Expansions Progressive?**  (with Tim Layton and Mark Shepard)</span>
+
+<span style ="font-size:.9em;">**Patients: The efficiency and equity consequences of waiting for health care in the English
+National Health Service** </span>
+
+<span style ="font-size:.9em;">**Double Agents? The dual role of primary care doctors as agents for patients and stewards of
+health system resources** </span>
+
 <span style ="font-size:1.2em;"> **Publications** </span>
 
 <span style ="font-size:.9em;">**Socio-Economic Deprivation and Ethnicity Inequalities in Disruption to NHS Hospital Admissions during the COVID-19 Pandemic: A National Observational Study**  (with Max Warner, Samantha Burn, George Stoye, Alex Bottle, Paul Aylin and Carol Propper). BMJ Quality & Safety, 2022.</span> <br/>
@@ -64,6 +76,9 @@ of ePrescribing systems and candidate prototype for other related health informa
 technologies**  (with Richard J Lilford, Alan J Girling, Aziz Sheikh, Jamie J Coleman, Peter J Chilton,
 David J Jenkinson, Laurence Blake and Karla Hemming). WHO Bulletin, 2014.</span> <br/>
 <small>[[Publisher's version]([https://qualitysafety.bmj.com/content/31/8/590](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25552770/))]</small>
+
+
+
 
 
 [//]: This java script is the button to show abstract
