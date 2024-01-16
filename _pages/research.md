@@ -29,14 +29,12 @@ High administrative costs in US health care have provoked concern among policyma
 
 [priorauth_NBER]: https://www.nber.org/papers/w30878
 
-<span style ="font-size:.9em;">**Universal Coverage with Financial Constraints: How Public Health Systems Ration Care** 2023. </span> <br/> <small>[ <a href="#/" onclick="visib('funding')">Abstract</a> | [PDF][VCs]]</small>
+<span style ="font-size:.9em;">**Universal Coverage with Financial Constraints: How Public Health Systems Ration Care** 2023. </span> <br/> <small>[ <a href="#/" onclick="visib('funding')">Abstract</a>]</small>
 
 <div id="funding" style="display: none; text-align: justify; line-height: 1.2" ><small>
 I study how government budget constraints in publicly funded health systems restrict access to health care. Using data from England, I show that cuts to government funding negatively impact access to hospital care for fully insured individuals. I exploit a ‘pace-of-change’ policy used to determine financial allocations for administrative regions. This policy translates aggregate funding shocks into regional funding allocations using a non-linear formula that generates variation in
 funding that is plausibly exogenous to demand for health care. Government funding cuts reduceelective hospital admissions and increase hospital wait times. These effects are most pronounced for orthopedic patients. Using survey data on patient-reported benefits from orthopedic surgery, I show that the patients who are rationed out by funding cuts have lower propensity to benefit from treatment and higher income.
 </small><br><br/></div>
-
-[VCs]: https://valentinegilbert.github.io/files/gilbert_jmp.pdf
 
 <span style ="font-size:1.2em;"> **Publications** </span>
 
