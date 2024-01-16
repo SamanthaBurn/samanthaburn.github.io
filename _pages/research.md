@@ -17,7 +17,7 @@ Should governments outsource publicly funded healthcare to the private sector? I
 
 <span style ="font-size:1.2em;">**Working Papers** </span>
 
-<span style ="font-size:.9em;">**Rationing Medicine Through Bureaucracy: Authorization Restrictions in Medicare** (with Zarek Brot-Goldberg, Timothy Layton and Boris Vabson) 2023. *Revise & Resubmit at American Economic Review*</span> <br/> <small>[ <a href="#/" onclick="visib('priorauth')">Abstract</a> | [PDF][priorauth] | [NBER working paper][priorauth_NBER]]</small><br/>
+<span style ="font-size:.9em;">**Rationing Medicine Through Bureaucracy: Authorization Restrictions in Medicare** (with Zarek Brot-Goldberg, Timothy Layton and Boris Vabson). 2023. *Revise & Resubmit at American Economic Review*</span> <br/> <small>[ <a href="#/" onclick="visib('priorauth')">Abstract</a> | [PDF][priorauth] | [NBER working paper][priorauth_NBER]]</small><br/>
 
 Media  Coverage:  [Tradeoffs](https://tradeoffs.org/2023/10/03/prior-authorization-insurers/), [Medscape](https://www.medscape.com/viewarticle/995133), [Crain's Chicago Business](https://www.chicagobusiness.com/health-pulse/university-chicago-studies-financial-advantage-rationing-medical-care), [AEIdeas](https://www.aei.org/health-care/prior-authorization-reduces-net-costs-of-medicare-part-d/)
 
@@ -53,22 +53,18 @@ Results: Between March and December 2020, there were 35.5% (3.0 million) fewer e
 Conclusions: Even in a healthcare system founded on the principle of equal access for equal need, the impact of COVID-19 on NHS hospital care for non-COVID patients has not been spread evenly across ethnic groups in England. While we cannot conclusively determine the mechanisms behind these differences, if these falls are due to forgone care rather than changes in need, they risk exacerbating pre-pandemic health inequalities.
 </small><br><br/></div>
 
-[BBs]:{{ site.baseurl }}{% link files/LE_2017.pdf %}
+<span style ="font-size:.9em;">**Socio-Economic Deprivation and Ethnicity Inequalities in Disruption to NHS Hospital Admissions during the COVID-19 Pandemic: A National Observational Study**  (with Max Warner, Samantha Burn, George Stoye, Alex Bottle, Paul Aylin and Carol Propper). BMJ Quality & Safety, 2022.</span> <br/>
+<small>[ <a href="#/" onclick="visib('NHSnonCOVID')">Abstract</a> | [Publisher's version](https://qualitysafety.bmj.com/content/31/8/590)]</small>
 
-[BBs_LE]: https://www.sciencedirect.com/science/article/pii/S0927537117300556
+<span style ="font-size:.9em;">**Peri-operative pulse oximetry in low-income countries: a cost–effectiveness analysis**  (with Peter Chilton, Atul Gawande and Richard Lilford). WHO Bulletin, 2014.</span> <br/>
+<small>[[Publisher's version]([https://qualitysafety.bmj.com/content/31/8/590](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25552770/))]</small>
 
-<span style ="font-size:.9em;">**Applying behavioural economics to public policy in Canada**  (with Philip Oreopoulos). Canadian Journal of Economics, 2017.</span> <br/>
-<small>[ <a href="#/" onclick="visib('ABE')">Abstract</a> | [PDF][ABE] | [CJE][ABE_CJE] | [VOX EU][ABE_VOX] ]</small>
+<span style ="font-size:.9em;">**Protocol for evaluation of the cost-effectiveness
+of ePrescribing systems and candidate prototype for other related health information
+technologies**  (with Richard J Lilford, Alan J Girling, Aziz Sheikh, Jamie J Coleman, Peter J Chilton,
+David J Jenkinson, Laurence Blake and Karla Hemming). WHO Bulletin, 2014.</span> <br/>
+<small>[[Publisher's version]([https://qualitysafety.bmj.com/content/31/8/590](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25552770/))]</small>
 
-<div id="ABE" style="display: none; text-align: justify; line-height: 1.2" ><small>
-Behavioural economics incorporates ideas from psychology, sociology and neuroscience to better predict how individuals make long-term decisions. Often the ideas adopted include present or inattention bias, both potentially leading to suboptimal outcomes. But these models also point to opportunities for effective, low-cost government policies that can have meaningful positive effects on people's long-term well-being. The last decade has been marked by a growing interest from governments the world over in using behavioural economics to inform policy decisions. This is true of Canada as well. In this paper we discuss the increasingly important role behavioural economics plays in Canadian public policy. We first contextualize government policies that have incorporated insights from behavioural economics by outlining a collection of models of intertemporal choice. We then present examples of public policy initiatives that are based upon findings in the field, placing particular emphasis on Canadian initiatives. We also document future opportunities, challenges and limitations.
-</small><br><br/></div>
-
-[ABE]:{{ site.baseurl }}{% link files/CJE_2017.pdf %}
-
-[ABE_CJE]: https://onlinelibrary.wiley.com/doi/abs/10.1111/caje.12272
-
-[ABE_VOX]: https://cepr.org/voxeu/columns/when-behavioural-economics-meets-randomised-control-trials-examples-canadian-public
 
 [//]: This java script is the button to show abstract
 <script>
