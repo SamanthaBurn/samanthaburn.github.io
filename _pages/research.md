@@ -39,11 +39,19 @@ This paper investigates the role that residential vacancy chains – the sequenc
 
 <span style ="font-size:1.2em;"> **Publications** </span>
 
-<span style ="font-size:.9em;">**Behavioral barriers transitioning to college**  (with Philip Oreopoulos). Labour Economics, 2017.</span> <br/>
-<small>[ <a href="#/" onclick="visib('BBs')">Abstract</a> | [PDF][BBs] | [LE][BBs_LE] ]</small>
+<span style ="font-size:.9em;">**Socio-Economic Deprivation and Ethnicity Inequalities in Disruption to NHS Hospital Admissions during the COVID-19 Pandemic: A National Observational Study**  (with Max Warner, Samantha Burn, George Stoye, Alex Bottle, Paul Aylin and Carol Propper). BMJ Quality & Safety, 2022.</span> <br/>
 
-<div id="BBs" style="display: none; text-align: justify; line-height: 1.2" ><small>
-This paper presents a review of mostly experimental evidence demonstrating the potential usefulness of simplifying the college admission and enrollment process. Seemingly small differences in the process of students transitioning to college often determine whether some matriculate or not. Behavioral models that imply the possibility of sub-optimal long-run outcomes may be needed to better explain these results. We argue that the model which fits the results best is one where some students are inattentive to their college possibilities and therefore let opportunity slip by. Making the process to get to college easier and more salient helps offset this inattentiveness and prevents some exiting high school from falling through the cracks.
+Max Warner, Samantha Burn, George Stoye, Alex Bottle, Paul Aylin and Carol Propper. "Socio-Economic Deprivation and Ethnicity Inequalities in Disruption to NHS Hospital Admissions during the COVID-19 Pandemic: A National Observational Study" BMJ Quality & Safety 2022; 31:590-598.
+<small>[ <a href="#/" onclick="visib('NHSnonCOVID')">Abstract</a> | [Publisher's][BBs] | [LE][BBs_LE] ]</small>
+
+<div id="NHSnonCOVID" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Introduction: Hospital admissions in many countries fell dramatically at the onset of the COVID-19 pandemic. Less is known about how care patterns differed by patient groups. We sought to determine whether areas with higher levels of socio-economic deprivation or larger ethnic minority populations saw larger falls in emergency and planned admissions in England.<br/>
+
+Methods: We conducted a national observational study of hospital care in the English National Health Service in 2019-2020. Weekly volumes of elective and emergency admissions in 2020 compared with 2019 were calculated for each census area. Multiple linear regression analysis was used to estimate the reductions in volumes for areas in different quintiles of socio-economic deprivation and ethnic minority populations after controlling for national time trends and local area composition.<br/>
+
+Results: Between March and December 2020, there were 35.5% (3.0 million) fewer elective admissions and 22.0% (1.2 million) fewer emergency admissions with a non-COVID-19 primary diagnosis than in the previous year. Areas with the largest share of ethnic minority populations experienced a 36.7% (95% CI 24.1% to 49.3%) larger reduction in non-primary-COVID-19 emergency admissions compared with those with the smallest. The most deprived areas experienced a 10.1% (95% CI 2.6% to 17.7%) smaller reduction in non-COVID-19 emergency admissions compared to the least deprived. These patterns are not explained by differential prevalence of COVID-19 cases by area.<br/>
+
+Conclusions: Even in a healthcare system founded on the principle of equal access for equal need, the impact of COVID-19 on NHS hospital care for non-COVID patients has not been spread evenly across ethnic groups in England. While we cannot conclusively determine the mechanisms behind these differences, if these falls are due to forgone care rather than changes in need, they risk exacerbating pre-pandemic health inequalities.
 </small><br><br/></div>
 
 [BBs]:{{ site.baseurl }}{% link files/LE_2017.pdf %}
