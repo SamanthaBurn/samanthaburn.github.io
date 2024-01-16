@@ -29,10 +29,11 @@ High administrative costs in US health care have provoked concern among policyma
 
 [priorauth_NBER]: https://www.nber.org/papers/w30878
 
-<span style ="font-size:.9em;">**Suburban Housing and Urban Affordability: Evidence from Residential Vacancy Chains** (with Valentine Gilbert) 2023. *Valentine's Job Market Paper*</span> <br/> <small>[ <a href="#/" onclick="visib('VCs')">Abstract</a> | [PDF][VCs]]</small>
+<span style ="font-size:.9em;">**Universal Coverage with Financial Constraints: How Public Health Systems Ration Care** 2023. </span> <br/> <small>[ <a href="#/" onclick="visib('funding')">Abstract</a> | [PDF][VCs]]</small>
 
-<div id="VCs" style="display: none; text-align: justify; line-height: 1.2" ><small>
-This paper investigates the role that residential vacancy chains – the sequence of moves across housing units initiated by the construction of a new housing unit – play in linking different housing submarkets. We focus in particular on how the market for  suburban single-family homes affects the market for dense urban housing in multifamily buildings. Using administrative data on the residential histories of the U.S. population, we describe the distribution of vacancies created by different kinds of new housing. A key finding is that vacancy chains end quickly, with 90% ending within three rounds of moves. We then conduct a simulation exercise to understand what the observed patterns of vacancy chains imply about the welfare and price effects of new housing supply. We show that the geographic distribution of moves created by vacancy chains is correlated with the geographic distribution of welfare and price effects, and that the number of vacancies created in a neighborhood is as strong a predictor of price effects as are model-derived  crossneighborhood substitution effects. These results, along with our descriptive results, imply that the incidence of the benefits of new housing depend strongly on what kind of housing is built and where.
+<div id="funding" style="display: none; text-align: justify; line-height: 1.2" ><small>
+I study how government budget constraints in publicly funded health systems restrict access to health care. Using data from England, I show that cuts to government funding negatively impact access to hospital care for fully insured individuals. I exploit a ‘pace-of-change’ policy used to determine financial allocations for administrative regions. This policy translates aggregate funding shocks into regional funding allocations using a non-linear formula that generates variation in
+funding that is plausibly exogenous to demand for health care. Government funding cuts reduceelective hospital admissions and increase hospital wait times. These effects are most pronounced for orthopedic patients. Using survey data on patient-reported benefits from orthopedic surgery, I show that the patients who are rationed out by funding cuts have lower propensity to benefit from treatment and higher income.
 </small><br><br/></div>
 
 [VCs]: https://valentinegilbert.github.io/files/gilbert_jmp.pdf
@@ -40,9 +41,7 @@ This paper investigates the role that residential vacancy chains – the sequenc
 <span style ="font-size:1.2em;"> **Publications** </span>
 
 <span style ="font-size:.9em;">**Socio-Economic Deprivation and Ethnicity Inequalities in Disruption to NHS Hospital Admissions during the COVID-19 Pandemic: A National Observational Study**  (with Max Warner, Samantha Burn, George Stoye, Alex Bottle, Paul Aylin and Carol Propper). BMJ Quality & Safety, 2022.</span> <br/>
-
-Max Warner, Samantha Burn, George Stoye, Alex Bottle, Paul Aylin and Carol Propper. "Socio-Economic Deprivation and Ethnicity Inequalities in Disruption to NHS Hospital Admissions during the COVID-19 Pandemic: A National Observational Study" BMJ Quality & Safety 2022; 31:590-598.
-<small>[ <a href="#/" onclick="visib('NHSnonCOVID')">Abstract</a> | [Publisher's][BBs] | [LE][BBs_LE] ]</small>
+<small>[ <a href="#/" onclick="visib('NHSnonCOVID')">Abstract</a> | [Publisher's version](https://qualitysafety.bmj.com/content/31/8/590)]</small>
 
 <div id="NHSnonCOVID" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Introduction: Hospital admissions in many countries fell dramatically at the onset of the COVID-19 pandemic. Less is known about how care patterns differed by patient groups. We sought to determine whether areas with higher levels of socio-economic deprivation or larger ethnic minority populations saw larger falls in emergency and planned admissions in England.<br/>
