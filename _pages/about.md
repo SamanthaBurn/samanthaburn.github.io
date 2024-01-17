@@ -1,7 +1,7 @@
 ---
+layout: archive
 permalink: /
 title: "Samantha Burn"
-layout: archive
 excerpt: "About me"
 author_profile: true
 redirect_from: 
