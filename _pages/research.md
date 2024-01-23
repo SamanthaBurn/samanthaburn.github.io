@@ -39,7 +39,7 @@ funding that is plausibly exogenous to demand for health care. Government fundin
 <span style ="font-size:1.2em;"> **Publications** </span>
 
 <span style ="font-size:.9em;">**Socio-Economic Deprivation and Ethnicity Inequalities in Disruption to NHS Hospital Admissions during the COVID-19 Pandemic: A National Observational Study**  (with Max Warner, Samantha Burn, George Stoye, Alex Bottle, Paul Aylin and Carol Propper). BMJ Quality & Safety, 2022.</span> <br/>
-<small>[ <a href="#/" onclick="visib('NHSnonCOVID')">Abstract</a> | [Publisher's version](https://qualitysafety.bmj.com/content/31/8/590)]</small>
+<small>[ <a href="#/" onclick="visib('NHSnonCOVID')">Abstract</a> | [Publisher's version](https://qualitysafety.bmj.com/content/31/8/590)]</small><br/>
 <small>Media coverage: [Medscape](https://www.medscape.co.uk/viewarticle/ethnic-minorities-missing-out-access-hospital-services-2021a1002gfj)</small><br/>
 <small>Policy impact: [IFS observation](https://ifs.org.uk/articles/ethnicity-inequalities-covid-disruption-hospital-admissions)</small><br/>
 
