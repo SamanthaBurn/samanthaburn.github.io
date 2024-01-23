@@ -40,6 +40,8 @@ funding that is plausibly exogenous to demand for health care. Government fundin
 
 <span style ="font-size:.9em;">**Socio-Economic Deprivation and Ethnicity Inequalities in Disruption to NHS Hospital Admissions during the COVID-19 Pandemic: A National Observational Study**  (with Max Warner, Samantha Burn, George Stoye, Alex Bottle, Paul Aylin and Carol Propper). BMJ Quality & Safety, 2022.</span> <br/>
 <small>[ <a href="#/" onclick="visib('NHSnonCOVID')">Abstract</a> | [Publisher's version](https://qualitysafety.bmj.com/content/31/8/590)]</small>
+<small>Media coverage: [Medscape](https://www.medscape.co.uk/viewarticle/ethnic-minorities-missing-out-access-hospital-services-2021a1002gfj)</small><br/>
+<small>Policy impact: [IFS observation](https://ifs.org.uk/articles/ethnicity-inequalities-covid-disruption-hospital-admissions)</small><br/>
 
 <div id="NHSnonCOVID" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Introduction: Hospital admissions in many countries fell dramatically at the onset of the COVID-19 pandemic. Less is known about how care patterns differed by patient groups. We sought to determine whether areas with higher levels of socio-economic deprivation or larger ethnic minority populations saw larger falls in emergency and planned admissions in England.<br/><br/>
