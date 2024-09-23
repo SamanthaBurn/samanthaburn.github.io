@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Current CV (Updated November, 2023)](/documents/cv_Burn_web.pdf)
+[Current CV (Updated September, 2024)](/documents/Burn_CV.pdf)
