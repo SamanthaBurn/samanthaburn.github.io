@@ -1,0 +1,54 @@
+/* --- Global text --- */
+.reveal {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 28px;
+  color: #000000;
+}
+
+/* --- Title slide --- */
+.reveal .slides section:first-of-type h1 {
+  color: #003A8F; /* Imperial-style dark blue */
+  font-weight: 700;
+}
+
+.reveal .slides section:first-of-type h2 {
+  color: #6A7FDB; /* lighter subtitle blue */
+  font-weight: 400;
+}
+
+/* --- Slide titles --- */
+.reveal h2 {
+  color: #003A8F;
+  font-weight: 700;
+  margin-bottom: 0.6em;
+}
+
+/* --- Bullet points --- */
+.reveal ul {
+  list-style-type: disc;
+  margin-left: 1.2em;
+}
+
+.reveal li {
+  margin-bottom: 0.4em;
+}
+
+/* --- Emphasis (bold bullets like your screenshot) --- */
+.reveal strong {
+  font-weight: 700;
+}
+
+/* --- Footer --- */
+.reveal .slide-number {
+  color: #003A8F;
+  font-size: 14px;
+}
+
+.reveal .footer {
+  position: absolute;
+  bottom: 15px;
+  left: 30px;
+  font-size: 14px;
+  color: #003A8F;
+}
+
